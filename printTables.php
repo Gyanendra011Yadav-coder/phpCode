@@ -1,4 +1,5 @@
 <?php
+// intializing table tag
     echo "<table border ='2px black' bgcolor='blue'>";
     echo"<tr style='background-color: aqua'>";
         for($table=1;$table<=20;$table++){
