@@ -1,6 +1,34 @@
 <?php
+// Find The Greatest ELEMENT among 3 elements
 
 
+
+/*
+factorialCount(5);
+// factorial count
+function factorialCount($num){
+    $result=1;
+    while($num>=1){
+        $result*=$num;
+        $num--;
+    }
+    echo $result;
+}
+*/
+
+/*
+//PHP FUNCTIONS
+//to add
+// public static int add(int a, int b){}
+// Math.add(a,b);// Pre Defined
+$a=5;
+$b=10;
+add($a,$b);// calling of the function
+//function create
+function add($a, $b){
+    echo $a+$b;
+}
+*/
 
 
 /*
