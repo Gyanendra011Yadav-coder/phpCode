@@ -1,9 +1,46 @@
 <?php
-// Find The Greatest ELEMENT among 3 elements
-
+e
 
 
 /*
+$arr=array(10,20,30,40,50);
+$arr=array_diff($arr,[40]);
+print_r($arr);
+*/
+
+/*
+$res =0;
+$res=sprintf(printf("%x",printf("PHP examination")));
+echo $res
+*/
+
+/*
+$x="ABC";
+$$x=200;
+echo $x;
+echo $$x;
+echo $abc;
+*/
+
+/*
+// Find The Greatest ELEMENT among 3 elements
+$a=10;
+$b=20;
+$c=30;
+/*
+if($$a>b && $a>$c){
+    echo $a;
+}else if($b>$a && $b>$c){
+    echo $b;
+}else{
+    echo $c;
+}
+
+echo ($a>$b) ? (($a>$c)?$a:$c) : (($b>$c)? $b :$c);
+*/
+
+/*
+
 factorialCount(5);
 // factorial count
 function factorialCount($num){
