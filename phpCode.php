@@ -1,13 +1,30 @@
 <?php
 
+//Switch case
 
-$string ="MY NAME IS GYANENDRA YADAV";
+
+
+
+//$var=5;
+//if($var%2==0){
+  //  echo "Number of Even";
+//}else{
+  //  echo "Number is Odd";
+//}
+
+
+
+
+//define("GREETING", "Welcome to W3Schools.com!",true);
+//echo greeting;
+//$string ="The quick brown fox jumps over the lazy dog";
+//echo strpos("$string","jumps");
 //echo strlen($string);
 //echo str_word_count($string);
 //echo strrev($string);
 //echo strpos("$string","YADAV");
-$string=str_replace("MY","I","$string");
-echo str_replace("NAME","AM","$string");
+//$string=str_replace("MY","I","$string");
+//echo str_replace("NAME","AM","$string");
 //echo ("$string");
 
 
@@ -45,20 +62,6 @@ print "<h2>" . $txt1 . "</h2>";
 print "Study PHP at " . $txt2 . "<br>";
 print $x + $y;
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /*
  * // o/p>> My name is Sejal Bansal
