@@ -1,9 +1,60 @@
 <?php
 
+
+
+
+/*
+$colors=array("red", "green", "blue", "yellow");
+
+$size=sizeof($colors);
+for($i=0;$i<$size;$i++){
+
+}
+
+foreach ($colors as $value) {
+    //check green color
+    if($value=="green"){
+        echo "Found ";
+        break;
+    }else{
+        continue;
+    }
+}
+*/
+
+/*
+//LOOP
+//While-loop
+$num=1;
+while($num<=5){
+    echo $num."<br>";
+    $num++;
+}
+*/
+
+/*
 //Switch case
+$a=5;
+$b=10;
+$operation_to_be_perform="DIVIDE";
+switch ($operation_to_be_perform){
+    case "ADD":
+        echo $a+$b;
+        break;
+    case "SUBTRACT":
+        echo $a-$b;
+        break;
+    case "MULTIPLY":
+        echo $a*$b;
+        break;
+    case "DIVIDE":
+        echo $a/$b;
+        break;
+    default:
+        echo "Operation can't be performed";
+}
 
-
-
+*/
 
 //$var=5;
 //if($var%2==0){
@@ -11,9 +62,6 @@
 //}else{
   //  echo "Number is Odd";
 //}
-
-
-
 
 //define("GREETING", "Welcome to W3Schools.com!",true);
 //echo greeting;
@@ -26,8 +74,6 @@
 //$string=str_replace("MY","I","$string");
 //echo str_replace("NAME","AM","$string");
 //echo ("$string");
-
-
 
 // int [] ar= new int[size];
 //int []arr={"gya","GDUD"};
